@@ -15,7 +15,7 @@ Build an app that is functionally similar to this: https://random-quote-machine.
 - User Story #10: I can tweet the current quote by clicking on the #tweet-quote a element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet   the current quote.
 
 # Solution Challenge
-
+In this challenge I tried to get as close as possible to your solution:
 - Live Site URL: [Codepen](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/PoyyxMa)
 
 # Author

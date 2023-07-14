@@ -14,7 +14,7 @@ Build an app that is functionally similar to this: https://random-quote-machine.
 - User Story #9: My quote machine should fetch the new quote's author when the #new-quote button is clicked and display it in the #author element.
 - User Story #10: I can tweet the current quote by clicking on the #tweet-quote a element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet   the current quote.
 
-# Links
+# Solution Challenge
 
 - Live Site URL: [Codepen](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/PoyyxMa)
 
@@ -30,4 +30,3 @@ Build an app that is functionally similar to this: https://random-quote-machine.
 
 
 
-(https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/PoyyxMa)

@@ -13,24 +13,17 @@ Build an app that is functionally similar to this: https://random-quote-machine.
 - User Story #8: When the #new-quote button is clicked, my quote machine should fetch a new quote and display it in the #text element.
 - User Story #9: My quote machine should fetch the new quote's author when the #new-quote button is clicked and display it in the #author element.
 - User Story #10: I can tweet the current quote by clicking on the #tweet-quote a element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet   the current quote.
-- User Story #11: The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
-
-
-
-# Screenshot
-
-![Captura1](https://github.com/AndresF-SanchezG/proyecto3-batatabit/assets/113924667/b1a5501c-3b9c-40c4-9d8a-435c36d003d6) 
 
 # Links
 
-- Live Site URL: [Vercel deployed app](https://proyecto3-batatabit.vercel.app/)
+- Live Site URL: [Codepen](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/PoyyxMa)
 
 # Author
 
-- Tutor - Diego De Granda [@degranda10](https://twitter.com/degranda10?t=hnoz6IUoxadjVEQux9Zzdw&s=09)
-- School - [Platzi](https://www.platzi.com)
-- Curse - [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/cursos/mobile-first/)
-- Github - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
+- Author - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
+- School - [Freecodecamp](https://www.freecodecamp.org/)
+- Curse - [Build a Random Quote Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
+
 
 
 
